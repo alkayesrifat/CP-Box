@@ -3,7 +3,7 @@
     "prefix": "cpp",
     "body": [
       "/**",
-      " * All Praise to Allah",
+      " * In the name of Allah, the Most Gracious, the Most Merciful",
       " * ---------------------",
       " * Author     : Al Kayes Rifat",
       " * Portfolio  : alkayesrifat.netlify.app",
@@ -40,7 +40,7 @@
     "prefix": "testcpp",
     "body": [
       "/**",
-      " * All Praise to Allah",
+      " * In the name of Allah, the Most Gracious, the Most Merciful",
       " * ---------------------",
       " * Author     : Al Kayes Rifat",
       " * Portfolio  : alkayesrifat.netlify.app",
