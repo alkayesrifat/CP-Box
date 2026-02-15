@@ -47,4 +47,5 @@
         return (n ^ (1 << k));
     }
 
-
+4 . Highest set bit index using __lg()
+    cout << __lg( Value ) // Eta highest set bit bahir kore dey + etar madhome msb o bahir korte parmu
