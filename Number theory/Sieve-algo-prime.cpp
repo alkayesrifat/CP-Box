@@ -1,3 +1,5 @@
+// Time Complexity: O(n*log(log(n)))
+//----------------------------------
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long int
