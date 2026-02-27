@@ -17,7 +17,7 @@ int main()
     cin >> n;
     vector<bool> v(n + 1, true);
 
-    for (int i = 2; i <= n; i++)
+    for (int i = 2; i * i <= n; i++)
     {
         if (v[i])
         {
