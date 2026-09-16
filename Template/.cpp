@@ -43,7 +43,7 @@
       "    cin.tie(nullptr);",
       "",
       "    long long alkayesrifat = 1;",
-      "    // cin >> alkayesrifat;",
+      "    cin >> alkayesrifat;",
       "    while(alkayesrifat--)",
       "    {",
       "        alkayesrifat_solves();",
