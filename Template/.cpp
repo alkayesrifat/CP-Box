@@ -16,7 +16,7 @@
       "#include<ext/pb_ds/tree_policy.hpp>",
       "using namespace __gnu_pbds;",
       "using namespace std;",
-      "#define ordered_set tree<int, null_type,less_equal<int>, rb_tree_tag,tree_order_statistics_node_update>// - Use 'less<int>' for set, 'less_equal<int>' for multiset",
+      "#define ordered_set tree<int, null_type,less_equal<int>, rb_tree_tag,tree_order_statistics_node_update>//Use 'less<int>' for set,'less_equal<int>' for multiset",
       "#define ll long long int",
       "#define ull unsigned long long",
       "#define nl \"\\n\"",
