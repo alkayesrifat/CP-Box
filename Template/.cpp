@@ -2,11 +2,12 @@
   "Competitive Programming Template": {
     "prefix": "cpp",
     "body": [
-      "/**",
+      "/*",
       " * In the name of Allah, the Most Gracious, the Most Merciful",
       " * Kayser-i Rûm == Fatih Sultan Mehmed Han",
       " * ---------------------",
       " * Author     : Al Kayes Rifat",
+      " * Website    : alkayesrifat.github.io",
       " * Date       : ${CURRENT_DATE}/${CURRENT_MONTH}/${CURRENT_YEAR} (${CURRENT_DAY_NAME})",
       " * Time       : ${CURRENT_HOUR}:${CURRENT_MINUTE} ",
       " * ---------------------",
