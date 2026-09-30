@@ -4,7 +4,6 @@
     "body": [
       "/*",
       " * In the name of Allah, the Most Gracious, the Most Merciful",
-      " * Kayser-i Rûm == Fatih Sultan Mehmed Han",
       " * ---------------------",
       " * Author     : Al Kayes Rifat",
       " * Website    : alkayesrifat.github.io",
